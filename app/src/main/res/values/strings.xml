@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ExplicitIntent</string>
+    <string name="next">跳到下一頁</string>
+    <string name="previous">返回上一頁</string>
+</resources>
